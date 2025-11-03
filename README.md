@@ -1,5 +1,5 @@
 # Hi there 👋
-
+##
 > [!NOTE]
 > Public Repositories
 
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **PHP**, **React.JS** end **Linux Servers**.
 - 🌱 I’m currently learning **JavaScript Full-Stack** end **Docker**.
-- 📫 How to reach me: [Personal Page](https://berakhot.com).
+- 📫 How to reach me: My [Personal Page](https://berakhot.com).
 - ⚡ Fun fact: WebView is where you least expect it.
