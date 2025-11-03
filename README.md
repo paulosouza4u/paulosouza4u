@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosouza4u&layout=compact&theme=monokai&locale=pt-br)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosouza4u&layout=compact&theme=monokai&locale=en)]
 
 - 🔭 I’m currently working on **PHP**, **React.JS** end **Linux Servers**.
 - 🌱 I’m currently learning **JavaScript Full-Stack** end **Docker**.
