@@ -1,5 +1,6 @@
 # Hi there 👋
-## Public Repositories
+> [!NOTE]
+> Public Repositories
 
 <!--
 **paulosouza4u/paulosouza4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +18,8 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosouza4u&layout=compact&theme=monokai&locale=pt-br)]
+
+- 🔭 I’m currently working on **PHP**, **React.JS** end **Linux Servers**.
+- 🌱 I’m currently learning **JavaScript Full-Stack** end **Docker**.
+- 📫 How to reach me: [Personal Page](https://berakhot.com).
+- ⚡ Fun fact: WebView is where you least expect it.
