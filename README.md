@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosouza4u&layout=compact&theme=monokai&locale=en)]
 
-- 🔭 I’m currently working on **PHP**, **React.JS** end **Linux Servers**.
-- 🌱 I’m currently learning **JavaScript Full-Stack** end **Docker**.
+- 🔭 I’m currently working on **PHP/Laravel**, **JavaScript/React** end **DevOps/Infrastructure**.
+- 🌱 I’m currently learning **Cloud Computing** end **DataStorage**.
 - 📫 How to reach me: My [Personal Page](https://berakhot.com).
 - ⚡ Fun fact: WebView is where you least expect it.
